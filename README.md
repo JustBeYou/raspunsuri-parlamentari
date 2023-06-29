@@ -1,5 +1,5 @@
 # Raspunsuri parlamentari
-Date si statistici pentru reportajul Reporter: https://recorder.ro/pe-cine-alegem-catalogul-aproape-complet-al-viitorului-parlament/
+Date si statistici pentru reportajul Recorder: https://recorder.ro/pe-cine-alegem-catalogul-aproape-complet-al-viitorului-parlament/
 
 ![](./intrb0.png)
 ![](./intrb1.png)
